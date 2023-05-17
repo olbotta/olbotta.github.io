@@ -14,7 +14,9 @@ public:: true
 	- 🧗rock climbing
 - # contacts
 	- ✉️ [fabio.bottarelli@studenti.unimi.it](mailto:fabio.bottarelli@studenti.unimi.it)
-		- GPG key:
+		- PGP key
+			- key ID: A06CAB6A94AC98A8
+			- fingerptint: C8C1 131B 7DF0 6B8A D420 2CA1 A06C AB6A 94AC 98A8
 	- 🐘[mastodon](https://mastodon.social/@olbotta)
 	- 🟧 [gitlab](https://gitlab.com/olbotta)
 	- ⬛ [github](https://github.com/olbotta)
