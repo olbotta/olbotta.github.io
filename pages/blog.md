@@ -1,0 +1,5 @@
+- In this page i just collect some thoughts. I find that writing them down helps me to organize my beliefs.
+- I think it can be helpful sharing these beliefs with others. If you want to discuss with me about a topic you can ((6777caea-0acc-47a0-9c2d-5f7d3ce27104))
+- ## Posts
+	- [[blog/perché ho smesso di usare i social media]]
+	- [[blog/le implicazioni ambientali della costruzione di un data center]]
