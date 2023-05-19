@@ -6,9 +6,9 @@ public:: true
 	  collapsed:: true
 		- repository:: https://gitlab.com/djeyes
 - # 📜 publications
-	- Bottarelli F., Davanzo N., Presti G., and Avanzini F. "**DJeye: Towards an Accessible Gaze-Based Musical Interface for Quadriplegic DJs**". In *Proc. of the Sound and Music Computing conference*, Stockholm, Sweden, 2023.
+	- Bottarelli F., Davanzo N., Presti G., and Avanzini F. "**DJeye: Towards an Accessible Gaze-Based Musical Interface for Quadriplegic DJs**". In *Proc. 2023 Sound and Music Computing conf.*, Stockholm, Sweden, 2023.
 - # 🏷 interests
-	- 🎛 DJ equipment and software
+	- 🎛 DJ hardware and digital interfaces
 	- 💾 free and open source software
 	- 🐧 Linux-based operating systems
 	- 🧗rock climbing
