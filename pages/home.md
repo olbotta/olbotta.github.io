@@ -1,18 +1,18 @@
 public:: true
 
 - i'm Fabio Bottarelli, master student of information technology at [Università degli Studi di Milano](https://www.unimi.it)
-- # studies
+- # 🎓studies
 	- Bachelor degree in informatica musicale (aka sound and music computing) at [Università degli Studi di Milano](https://www.unimi.it) with a thesis on "developement of an accessible eye-tracker-based DJ controller " advisor: [Federico avanzini](https://avanzini.di.unimi.it/), [Laboratorio di Informatica Musicale](https://www.lim.di.unimi.it/)
 	  collapsed:: true
 		- repository:: https://gitlab.com/djeyes
-- # publications
+- # 📜 publications
 	-
-- # interests
+- # einterests
 	- 🎛 DJ equipment and software
 	- 💾 free and open source software
 	- 🐧 Linux-based operating systems
 	- 🧗rock climbing
-- # contacts
+- # 📨 contacts
 	- ✉️ [fabio.bottarelli@studenti.unimi.it](mailto:fabio.bottarelli@studenti.unimi.it)
 		- PGP key
 			- key ID: A06CAB6A94AC98A8
