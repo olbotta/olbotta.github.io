@@ -1,0 +1,13 @@
+pages:
+  image: ghcr.io/pengx17/logseq-base:master
+  stage: deploy
+  script:
+    - mkdir public
+    - mv publish.mjs /home/logseq/publish.mjs
+    - cd /home/logseq
+    - "xvfb-run node /home/logseq/publish.mjs -p $CI_PROJECT_DIR -t $CI_PROJECT_DIR/public/build_trace.txt -o $CI_PROJECT_DIR/public"
+  artifacts:
+    paths:
+      - public
+  only:
+    - schedules
