@@ -16,7 +16,7 @@ public:: true
 	- 🧗Rock climbing
 - # 📨 contacts
 	- ✉️ [fabio.bottarelli@studenti.unimi.it](mailto:fabio.bottarelli@studenti.unimi.it)
-		- PGP key
+		- PGP key (find it on www.open)
 			- key ID: A42A6DA3923B6C5E
 			- fingerprint: 664C 670F 4085 B8A3 BC7E E9C2 A42A 6DA3 923B 6C5E
 	- 🐘 <a rel="me" href="https://mastodon.social/@olbotta">mastodon</a>
