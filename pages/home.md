@@ -10,7 +10,7 @@ public:: true
 	- Bottarelli F., Davanzo N., Presti G., and Avanzini F. "**DJeye: Towards an Accessible Gaze-Based Musical Interface for Quadriplegic DJs**". In *Proc. 2023 Sound and Music Computing conf.*, Stockholm, Sweden, 2023. [Open access](https://hdl.handle.net/2434/1023536)
 		- {{video https://youtu.be/-bs08Ohdr7w}}
 - # Personal projects
-	- Mixfighter: DIY dje controller developed with arduino
+	- **Mixfighter** - DIY dje controller developed with arduino
 		- {{video https://www.youtube.com/watch?v=DJZIaCcd_vk}}
 - # 🏷 interests
 	- 🎛 DJ hardware and digital interfaces for music
@@ -24,6 +24,6 @@ public:: true
 			- key ID: A42A6DA3923B6C5E
 			- fingerprint: 664C 670F 4085 B8A3 BC7E E9C2 A42A 6DA3 923B 6C5E
 	- 🐘 <a rel="me" href="https://mastodon.social/@olbotta">mastodon</a>
-	- 🟧 🟠[gitlab](https://gitlab.com/olbotta)
-	- ⬛ ⚫[github](https://github.com/olbotta)
+	- 🟠 [gitlab](https://gitlab.com/olbotta)
+	- ⚫ [github](https://github.com/olbotta)
 	- ▶️ [peertube](https://peertube.uno/c/olbottavideos/videos)
