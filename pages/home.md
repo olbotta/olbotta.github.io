@@ -2,8 +2,10 @@ public:: true
 
 - i'm Fabio Bottarelli, master student of information technology at [Università degli Studi di Milano](https://www.unimi.it)
 - # 🎓studies
-	- Master degree in informatics @  [Università degli Studi di Milano](https://www.unimi.it) with a thesis on " advisor: [Federico avanzini](https://avanzini.di.unimi.it/), [Laboratorio di Informatica Musicale](https://www.lim.di.unimi.it/)
-	- Bachelor degree in informatica musicale (aka sound and music computing) @ [Università degli Studi di Milano](https://www.unimi.it) with a thesis on "developement of an accessible eye-tracker-based DJ controller " advisor: [Federico avanzini](https://avanzini.di.unimi.it/), [Laboratorio di Informatica Musicale](https://www.lim.di.unimi.it/)
+	- Master degree in informatics @  [Università degli Studi di Milano](https://www.unimi.it) with a thesis on "*space-osc: an object-based augmented reality
+	  controller for sound spatialization in live
+	  performances" advisor: [Federico avanzini](https://avanzini.di.unimi.it/), [Laboratorio di Informatica Musicale](https://www.lim.di.unimi.it/)
+	- Bachelor degree in informatica musicale (aka sound and music computing) @ [Università degli Studi di Milano](https://www.unimi.it) with a thesis on "*developement of an accessible eye-tracker-based DJ controller* " advisor: [Federico avanzini](https://avanzini.di.unimi.it/), [Laboratorio di Informatica Musicale](https://www.lim.di.unimi.it/)
 	  collapsed:: true
 		- repository:: https://gitlab.com/djeyes
 - # 📜 publications
