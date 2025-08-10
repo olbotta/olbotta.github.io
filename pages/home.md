@@ -3,13 +3,15 @@ public:: true
 - Hi, i'm Fabio Bottarelli and here is something about me
 - # 🎓studies
 	- Master degree in informatics @  [Università degli Studi di Milano](https://www.unimi.it) with a thesis on "*space-osc: an object-based augmented reality controller for sound spatialization in live performances*" advisor: [Federico avanzini](https://avanzini.di.unimi.it/), [Laboratorio di Informatica Musicale](https://www.lim.di.unimi.it/)
+	  collapsed:: true
 		- repository:: https://gitlab.com/space-osc
 	- Bachelor degree in informatica musicale (aka sound and music computing) @ [Università degli Studi di Milano](https://www.unimi.it) with a thesis on "*developement of an accessible eye-tracker-based DJ controller* " advisor: [Federico avanzini](https://avanzini.di.unimi.it/), [Laboratorio di Informatica Musicale](https://www.lim.di.unimi.it/)
 	  collapsed:: true
 		- repository:: https://gitlab.com/djeyes
 - # 📜 publications
 	- Bottarelli F., Davanzo N., Presti G., and Avanzini F. "**DJeye: Towards an Accessible Gaze-Based Musical Interface for Quadriplegic DJs**". In *Proc. 2023 Sound and Music Computing conf.*, Stockholm, Sweden, 2023. [Open access](https://hdl.handle.net/2434/1023536)
-		- {{video https://youtu.be/-bs08Ohdr7w}}
+		-
+		- {{video https://peertube.uno/w/1DwvWfUUoHsgqp3RpqPPdT}}
 - # Personal projects
 	- **Mixfighter** - DIY dje controller developed with arduino
 		- {{video https://www.youtube.com/watch?v=DJZIaCcd_vk}}
