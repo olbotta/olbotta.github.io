@@ -11,7 +11,7 @@ public:: true
 - # 📜 publications
 	- Bottarelli F., Davanzo N., Presti G., and Avanzini F. "**DJeye: Towards an Accessible Gaze-Based Musical Interface for Quadriplegic DJs**". In *Proc. 2023 Sound and Music Computing conf.*, Stockholm, Sweden, 2023. [Open access](https://hdl.handle.net/2434/1023536)
 		- <iframe title="DJeye: an Accessible Gaze-Based Musical Interface for Quadriplegic DJs, demo video" width="560" height="315" src="https://peertube.uno/videos/embed/1DwvWfUUoHsgqp3RpqPPdT" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
-- # Personal projects
+- # 🧩 Personal projects
 	- ### Space-OSC
 		- XR interface for spatial audio live performances
 		- <iframe title="SpaceOSC  0.1 video demonstration" width="560" height="315" src="https://peertube.uno/videos/embed/nCPY1xE5ciE6AaySinZojr" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
@@ -34,4 +34,5 @@ public:: true
 		  collapsed:: true
 			- key ID: A42A6DA3923B6C5E
 			- fingerprint: 664C 670F 4085 B8A3 BC7E E9C2 A42A 6DA3 923B 6C5E
-	- |🐘 <a rel="me" href="https://mastodon.social/@olbotta">mastodon</a>|▶️ [peertube](https://peertube.uno/c/olbottavideos/videos)|🟠 [gitlab](https://gitlab.com/olbotta)|⚫ [github](https://github.com/olbotta)|
+- ****
+- |🐘 <a rel="me" href="https://mastodon.social/@olbotta">mastodon</a>|▶️ [peertube](https://peertube.uno/c/olbottavideos/videos)|🟠 [gitlab](https://gitlab.com/olbotta)|⚫ [github](https://github.com/olbotta)|
