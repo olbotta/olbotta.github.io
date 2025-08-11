@@ -13,8 +13,9 @@ public:: true
 		-
 		- {{video https://peertube.uno/w/1DwvWfUUoHsgqp3RpqPPdT}}
 - # Personal projects
-	- **Mixfighter** - DIY dje controller developed with arduino
+	- **Mixfighter** - DIY MIDI controller developed with arduino
 		- {{video https://www.youtube.com/watch?v=DJZIaCcd_vk}}
+	- Space
 - # 🏷 interests
 	- 🎛 DJ hardware and digital interfaces for music
 	- 🪅 People!
