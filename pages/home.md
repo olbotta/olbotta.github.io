@@ -28,7 +28,6 @@ public:: true
 		- PGP key (find it on [keys.openpgp.org](https://keys.openpgp.org/))
 			- key ID: A42A6DA3923B6C5E
 			- fingerprint: 664C 670F 4085 B8A3 BC7E E9C2 A42A 6DA3 923B 6C5E
-	- 🐘 <a rel="me" href="https://mastodon.social/@olbotta">mastodon</a>
-	- 🟠 [gitlab](https://gitlab.com/olbotta)
+	- |🐘 <a rel="me" href="https://mastodon.social/@olbotta">mastodon</a>|🟠 [gitlab]|https://gitlab.com/olbotta)
 	- ⚫ [github](https://github.com/olbotta)
 	- ▶️ [peertube](https://peertube.uno/c/olbottavideos/videos)
