@@ -15,8 +15,8 @@ public:: true
 - # Personal projects
 	- **Mixfighter** - DIY MIDI controller developed with arduino
 		- {{video https://www.youtube.com/watch?v=DJZIaCcd_vk}}
-	- Space-OSC: XR interface for spatial audio live performances
-		-
+	- **Space-OSC**: XR interface for spatial audio live performances
+		- {{video https://peertube.uno/w/nCPY1xE5ciE6AaySinZojr}}
 - # 🏷 interests
 	- 🎛 DJ hardware and digital interfaces for music
 	- 🪅 People!
