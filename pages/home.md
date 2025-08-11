@@ -10,13 +10,12 @@ public:: true
 		- repository:: https://gitlab.com/djeyes
 - # 📜 publications
 	- Bottarelli F., Davanzo N., Presti G., and Avanzini F. "**DJeye: Towards an Accessible Gaze-Based Musical Interface for Quadriplegic DJs**". In *Proc. 2023 Sound and Music Computing conf.*, Stockholm, Sweden, 2023. [Open access](https://hdl.handle.net/2434/1023536)
-		- //{{video https://peertube.uno/w/1DwvWfUUoHsgqp3RpqPPdT}}
 		- <iframe title="DJeye: an Accessible Gaze-Based Musical Interface for Quadriplegic DJs, demo video" width="560" height="315" src="https://peertube.uno/videos/embed/1DwvWfUUoHsgqp3RpqPPdT" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 - # Personal projects
 	- **Mixfighter** - DIY MIDI controller developed with arduino
 		- {{video https://www.youtube.com/watch?v=DJZIaCcd_vk}}
 	- **Space-OSC**: XR interface for spatial audio live performances
-		- {{video https://peertube.uno/w/nCPY1xE5ciE6AaySinZojr}}
+		- <iframe title="SpaceOSC  0.1 video demonstration" width="560" height="315" src="https://peertube.uno/videos/embed/nCPY1xE5ciE6AaySinZojr" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 		- repository:: https://gitlab.com/space-osc
 - # 🏷 interests
 	- 🎛 DJ hardware and digital interfaces for music
