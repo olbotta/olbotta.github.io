@@ -1,7 +1,7 @@
 public:: true
 
-- Hi, i'm Fabio Bottarelli and here is something about me
-- # 🎓studies
+- Hi, i'm Fabio Bottarelli, passionate about sound and music computing and NIME. Here is something about me
+- # 🎓 where i
 	- Master degree in informatics @  [Università degli Studi di Milano](https://www.unimi.it) with a thesis on "*space-osc: an object-based augmented reality controller for sound spatialization in live performances*" advisor: [Federico avanzini](https://avanzini.di.unimi.it/), [Laboratorio di Informatica Musicale](https://www.lim.di.unimi.it/)
 	  collapsed:: true
 		- repository:: https://gitlab.com/space-osc
