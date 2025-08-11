@@ -12,14 +12,16 @@ public:: true
 	- Bottarelli F., Davanzo N., Presti G., and Avanzini F. "**DJeye: Towards an Accessible Gaze-Based Musical Interface for Quadriplegic DJs**". In *Proc. 2023 Sound and Music Computing conf.*, Stockholm, Sweden, 2023. [Open access](https://hdl.handle.net/2434/1023536)
 		- <iframe title="DJeye: an Accessible Gaze-Based Musical Interface for Quadriplegic DJs, demo video" width="560" height="315" src="https://peertube.uno/videos/embed/1DwvWfUUoHsgqp3RpqPPdT" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 - # Personal projects
-	- **Mixfighter** - DIY MIDI controller developed with arduino
+	- ### Space-OSC
+		- XR interface for spatial audio live performances
+		- <iframe title="SpaceOSC  0.1 video demonstration" width="560" height="315" src="https://peertube.uno/videos/embed/nCPY1xE5ciE6AaySinZojr" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
+		- repository:: https://gitlab.com/space-osc
+	- ### Mixfighter
+		- DIY MIDI controller developed with arduino
 		- <iframe title="Mix Fighter performance" width="560" height="315" src="https://peertube.uno/videos/embed/ou4u12PaVMLzUKqUt8aqAJ" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 		- #+BEGIN_NOTE
 		  Note: i am not a music performer
 		  #+END_NOTE
-	- **Space-OSC**: XR interface for spatial audio live performances
-		- <iframe title="SpaceOSC  0.1 video demonstration" width="560" height="315" src="https://peertube.uno/videos/embed/nCPY1xE5ciE6AaySinZojr" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
-		- repository:: https://gitlab.com/space-osc
 - # 🏷 interests
 	- 🎛 DJ hardware and digital interfaces for music
 	- 🪅 People!
