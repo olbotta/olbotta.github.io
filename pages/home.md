@@ -13,7 +13,7 @@ public:: true
 		- <iframe title="DJeye: an Accessible Gaze-Based Musical Interface for Quadriplegic DJs, demo video" width="560" height="315" src="https://peertube.uno/videos/embed/1DwvWfUUoHsgqp3RpqPPdT" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 - # Personal projects
 	- **Mixfighter** - DIY MIDI controller developed with arduino
-		- {{video https://www.youtube.com/watch?v=DJZIaCcd_vk}}
+		- <iframe title="Mix Fighter performance" width="560" height="315" src="https://peertube.uno/videos/embed/ou4u12PaVMLzUKqUt8aqAJ" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 		- #+BEGIN_NOTE
 		  Note: i am not a music performer
 		  #+END_NOTE
