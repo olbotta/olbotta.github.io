@@ -1,17 +1,18 @@
 public:: true
 
-- Hi, i'm Fabio Bottarelli, passionate about sound and music computing and NIME. Here is something about me
-- # 🎓 where i
+- Hi, i'm Fabio Bottarelli, passionate about sound and music computing and NIME.
+-
+- # 🎓 where i studied
 	- Master degree in informatics @  [Università degli Studi di Milano](https://www.unimi.it) with a thesis on "*space-osc: an object-based augmented reality controller for sound spatialization in live performances*" advisor: [Federico avanzini](https://avanzini.di.unimi.it/), [Laboratorio di Informatica Musicale](https://www.lim.di.unimi.it/)
 	  collapsed:: true
 		- repository:: https://gitlab.com/space-osc
 	- Bachelor degree in informatica musicale (aka sound and music computing) @ [Università degli Studi di Milano](https://www.unimi.it) with a thesis on "*developement of an accessible eye-tracker-based DJ controller* " advisor: [Federico avanzini](https://avanzini.di.unimi.it/), [Laboratorio di Informatica Musicale](https://www.lim.di.unimi.it/)
 	  collapsed:: true
 		- repository:: https://gitlab.com/djeyes
-- # 📜 publications
+- # 📜 my publications
 	- Bottarelli F., Davanzo N., Presti G., and Avanzini F. "**DJeye: Towards an Accessible Gaze-Based Musical Interface for Quadriplegic DJs**". In *Proc. 2023 Sound and Music Computing conf.*, Stockholm, Sweden, 2023. [Open access](https://hdl.handle.net/2434/1023536)
 		- <iframe title="DJeye: an Accessible Gaze-Based Musical Interface for Quadriplegic DJs, demo video" width="560" height="315" src="https://peertube.uno/videos/embed/1DwvWfUUoHsgqp3RpqPPdT" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
-- # 🧩 Personal projects
+- # 🧩 my personal projects
 	- ### Space-OSC
 		- XR interface for spatial audio live performances
 		- <iframe title="SpaceOSC  0.1 video demonstration" width="560" height="315" src="https://peertube.uno/videos/embed/nCPY1xE5ciE6AaySinZojr" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
@@ -22,13 +23,13 @@ public:: true
 		- #+BEGIN_NOTE
 		  Note: i am not a music performer
 		  #+END_NOTE
-- # 🏷 interests
+- # 🏷 my interests
 	- 🎛 DJ hardware and digital interfaces for music
 	- 🪅 People!
 	- 💾 FOSS software
 	- 🐧 Linux-based operating systems
 	- 🧗Rock climbing
-- # 📨 contacts
+- # 📨 contact me
 	- ✉️ [fabio.bottarelli@studenti.unimi.it](mailto:fabio.bottarelli@studenti.unimi.it)
 		- PGP key (find it on [keys.openpgp.org](https://keys.openpgp.org/))
 		  collapsed:: true
