@@ -23,6 +23,7 @@ public:: true
 		- #+BEGIN_NOTE
 		  Note: i am not a music performer
 		  #+END_NOTE
+	- Other minor projects are available in the repos listed in the footer
 - # 🏷 my interests
 	- 🎛 DJ hardware and digital interfaces for music
 	- 🪅 People!
