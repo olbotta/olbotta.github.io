@@ -27,8 +27,8 @@ public:: true
 	- Other minor projects are available in the repos listed in the footer
 - # 🏷 my interests
 	- 🎛 DJ hardware and digital interfaces for music
-		- listen to my mixes
-		- <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/641704836&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/djtabot" title="Tabot" target="_blank" style="color: #cccccc; text-decoration: none;">Tabot</a> · <a href="https://soundcloud.com/djtabot/sets/mixes" title="Mixes" target="_blank" style="color: #cccccc; text-decoration: none;">Mixes</a></div>
+		- listen to my mixes!
+			- <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/641704836&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/djtabot" title="Tabot" target="_blank" style="color: #cccccc; text-decoration: none;">Tabot</a> · <a href="https://soundcloud.com/djtabot/sets/mixes" title="Mixes" target="_blank" style="color: #cccccc; text-decoration: none;">Mixes</a></div>
 	- 🪅 People!
 	- 💾 FOSS software
 	- 🐧 Linux-based operating systems
