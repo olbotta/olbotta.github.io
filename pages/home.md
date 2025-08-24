@@ -18,10 +18,12 @@
 	- ### Mixfighter
 		- DIY MIDI controller developed with arduino
 		- <iframe title="Mix Fighter performance" width="560" height="315" src="https://peertube.uno/videos/embed/ou4u12PaVMLzUKqUt8aqAJ" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
-		- #+BEGIN_NOTE
+		- #+BEGIN_IMPORTANT
 		  Note: i am not a music performer
-		  #+END_NOTE
-	-
+		  #+END_IMPORTANT
+	- #+BEGIN_NOTE
+	  Other minor projects are available in the repos listed in the footer
+	  #+END_NOTE
 - # 🏷 my interests
 	- 🎛 DJ hardware and digital interfaces for music
 		- listen to my mixes!
