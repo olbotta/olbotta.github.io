@@ -1,6 +1,3 @@
-public:: true
-
--
 - Hi! i'm Fabio Bottarelli and i love sound and music computing and NIMEs.
 -
 - # 🎓 where i studied

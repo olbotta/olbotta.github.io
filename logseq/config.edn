@@ -415,4 +415,5 @@
  :feature/enable-journals? false
  :feature/enable-whiteboards? false
  :default-home {:page "home"}
- :ui/show-brackets? false}
+ :ui/show-brackets? false
+ :publishing/all-pages-public? true}
