@@ -414,6 +414,6 @@
  :file/name-format :triple-lowbar
  :feature/enable-journals? false
  :feature/enable-whiteboards? false
- :default-home {:page "Fabio Bottarelli"}
+ :default-home {:page "home"}
  :ui/show-brackets? false
  :publishing/all-pages-public? true}
