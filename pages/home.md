@@ -39,6 +39,6 @@
 		- PGP key (find it on [keys.openpgp.org](https://keys.openpgp.org/))
 			- key ID: A42A6DA3923B6C5E
 			- fingerprint: 664C 670F 4085 B8A3 BC7E E9C2 A42A 6DA3 923B 6C5E
-	- ✉️ [botta at **e** dot **email**](mailto:fabio.bottarelli@studenti.unimi.it)
+	- ✉️ [botta@e.e **email**](mailto:fabio.bottarelli@studenti.unimi.it)
 - ****
 - |🐘 <a rel="me" href="https://mastodon.social/@olbotta">mastodon</a>|▶️ [peertube](https://peertube.uno/c/olbottavideos/videos)|🟠 [gitlab](https://gitlab.com/olbotta)|⚫ [github](https://github.com/olbotta)|
