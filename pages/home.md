@@ -31,7 +31,7 @@
 	- 🧩 Puzzles and logic games
 	- 🎲 Tabletop games
 	- 🪅 People!
-	- 💾 FOSS software
+	- 💾 Free and Open Source software
 	- 🐧 Linux-based operating systems
 	- 🧗Rock climbing
 - # 📨 contact me
