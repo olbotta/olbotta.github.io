@@ -35,13 +35,9 @@
 	- 🐧 Linux-based operating systems
 	- 🧗Rock climbing and mountaineering
 - # 📨 contact me
-	- ✉️ [fabio.bottarelli@studenti.unimi.it](mailto:fabio.bottarelli@studenti.unimi.it)
-		- PGP key (find it on [keys.openpgp.org](https://keys.openpgp.org/))
-			- key ID: A42A6DA3923B6C5E
-			- fingerprint: 664C 670F 4085 B8A3 BC7E E9C2 A42A 6DA3 923B 6C5E
 	- ✉️ [botta@e.email](mailto:botta@e.email)
-		- PGP key (find it on [keys.openpgp.org](https://keys.openpgp.org/))
-			- key ID: A42A6DA3923B6C5E
-			- fingerprint: 664C 670F 4085 B8A3 BC7E E9C2 A42A 6DA3 923B 6C5E
+		- Please use my PGP key (find it on [keys.openpgp.org](https://keys.openpgp.org/))
+			- key ID: 55EDB8D1463F9C31
+			- fingerprint: 0AA8 2965 6527 F7D4 CBCD A24D 55ED B8D1 463F 9C31
 - ****
 - |🐘 <a rel="me" href="https://mastodon.social/@olbotta">mastodon</a>|▶️ [peertube](https://peertube.uno/c/olbottavideos/videos)|🟠 [gitlab](https://gitlab.com/olbotta)|⚫ [github](https://github.com/olbotta)|
