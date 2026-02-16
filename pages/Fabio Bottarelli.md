@@ -9,7 +9,7 @@
 		- mark: 110/110
 		- repository: https://gitlab.com/djeyes
 	- Technical high school diploma in **informatics** @ [ITIS Marconi](https://itisdalmine.edu.it/) (Dalmine)
-- # 💡my [[blog]] (italian)
+- # 💡my [[blog]] (italian only)
 	- {{embed [[Blog]]}}
 - # 🧩 my projects
 	- ### Djeye
