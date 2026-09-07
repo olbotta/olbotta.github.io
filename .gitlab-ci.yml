@@ -1,115 +1,13 @@
-variables:
-  GRAPH_DIRECTORY: "."
-  OUTPUT_DIRECTORY: "public"   # GitLab Pages requires this to be "public"
-  LOGSEQ_VERSION: "0.10.6"
-  THEME_MODE: "light"
-  ACCENT_COLOR: "blue"
-
-stages:
-  - build
-  - deploy
-
-# ── Build ──────────────────────────────────────────────────────────────────────
-build-logseq-spa:
-  stage: build
-  image: ubuntu:22.04
-
-  cache:
-    - key: logseq-static-$LOGSEQ_VERSION
-      paths:
-        - .logseq-logseq/static
-      policy: pull-push
-
-    - key: nbb-deps-$CI_COMMIT_REF_SLUG
-      paths:
-        - /root/.m2/repository
-        - /root/.gitlibs
-        - .logseq-publish-spa/.nbb/.cache
-      policy: pull-push
-
-    - key: yarn-publish-spa-$CI_COMMIT_REF_SLUG
-      paths:
-        - .logseq-publish-spa/node_modules
-      policy: pull-push
-
-  before_script:
-    # System deps
-    - apt-get update -qq && apt-get install -y -qq curl git bash
-
-    # Node 20
-    - curl -fsSL https://deb.nodesource.com/setup_20.x | bash -
-    - apt-get install -y -qq nodejs
-    - npm install -g yarn
-
-    # Clojure CLI + Babashka (matching pinned versions from original action)
-    - curl -L https://github.com/clojure/brew-install/releases/download/1.11.1.1182/linux-install.sh | bash
-    - curl -sLO https://raw.githubusercontent.com/babashka/babashka/master/install
-    - chmod +x install && ./install --version 1.2.174
-
-    # Clone logseq/logseq at the pinned version (re-uses cache on next run)
-    - |
-      if [ ! -d ".logseq-logseq/.git" ]; then
-        git clone --depth 1 --branch $LOGSEQ_VERSION \
-          https://github.com/logseq/logseq.git .logseq-logseq
-      fi
-
-    # Clone logseq/publish-spa
-    - |
-      if [ ! -d ".logseq-publish-spa/.git" ]; then
-        git clone --depth 1 \
-          https://github.com/logseq/publish-spa.git .logseq-publish-spa
-      fi
-
-  script:
-    # Build Logseq static/ dir — skipped when cache is warm
-    - |
-      if [ ! -d ".logseq-logseq/static" ] || [ -z "$(ls -A .logseq-logseq/static)" ]; then
-        echo "Building Logseq static assets..."
-        cd .logseq-logseq
-        yarn install --frozen-lockfile
-        yarn gulp:build
-        clojure -M:cljs release publishing
-        cd ..
-      else
-        echo "Static assets restored from cache, skipping build."
-      fi
-
-    # Install publish-spa JS deps
-    - cd .logseq-publish-spa && yarn install --frozen-lockfile && cd ..
-
-    # Fetch nbb/Clojure deps
-    - |
-      if [ ! -d ".logseq-publish-spa/.nbb/.cache" ]; then
-        cd .logseq-publish-spa && yarn nbb-logseq -e ':fetching-deps' && cd ..
-      fi
-
-    # Export the graph
-    - |
-      cd .logseq-publish-spa && node publish_spa.mjs \
-        ../$OUTPUT_DIRECTORY \
-        --static-directory ../.logseq-logseq/static \
-        --directory     ../$GRAPH_DIRECTORY \
-        --theme-mode    $THEME_MODE \
-        --accent-color  $ACCENT_COLOR
-
-  artifacts:
-    paths:
-      - public
-    expire_in: 1 week
-
-  rules:
-    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
-
-# ── Deploy (GitLab Pages) ──────────────────────────────────────────────────────
-# The job MUST be named "pages" for GitLab Pages to pick it up.
 pages:
   stage: deploy
-  dependencies:
-    - build-logseq-spa
+  image: ghcr.io/l-trump/logseq-publish-spa:alpine
+  variables:
+    PUB_GRAPH_DIR: $CI_PROJECT_DIR
+    PUB_OUT_DIR: $CI_PROJECT_DIR/public
   script:
-    - echo "Deploying Logseq SPA to GitLab Pages..."
+    - /opt/entrypoint.sh
   artifacts:
     paths:
       - public
   rules:
-    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'

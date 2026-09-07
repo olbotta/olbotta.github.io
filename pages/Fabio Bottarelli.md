@@ -1,4 +1,6 @@
 - Hi! i'm Fabio Bottarelli and i love **sound and music computing**, live music and NIMEs.
+- # 💡my [[blog]] (italian only)
+	- {{embed [[Blog]]}}
 - # 🎓 my studies
 	- Master degree in **informatics** @  [Università degli Studi di Milano](https://www.unimi.it) with a thesis on "*space-osc: an object-based augmented reality controller for sound spatialization in live performances*"
 		- advisor: [Federico avanzini](https://avanzini.di.unimi.it/), [Laboratorio di Informatica Musicale](https://www.lim.di.unimi.it/)
@@ -9,8 +11,6 @@
 		- mark: 110/110
 		- repository: https://gitlab.com/djeyes
 	- Technical high school diploma in **informatics** @ [ITIS Marconi](https://itisdalmine.edu.it/) (Dalmine)
-- # 💡my [[blog]] (italian only)
-	- {{embed [[Blog]]}}
 - # 🧩 my projects
 	- ### Djeye
 		- Dj controller for people affected by tetraplegia
@@ -44,7 +44,8 @@
 - # 📨 contact me
   id:: 6777caea-0acc-47a0-9c2d-5f7d3ce27104
 	- ✉️ [botta@e.email](mailto:botta@e.email)
-		- Please use my PGP key (find it on [keys.openpgp.org](https://keys.openpgp.org/))
+		- Please use my PGP key (find it on [keys.openpgp.org](https://keys.openpgp.org/search?q=botta%40e.email))
 			- key ID: 55EDB8D1463F9C31
 			- fingerprint: 0AA8 2965 6527 F7D4 CBCD A24D 55ED B8D1 463F 9C31
 - |🐘 [mastodon](https://mastodon.social/@olbotta)|▶️ [peertube](https://peertube.uno/c/olbottavideos/videos)|🟠 [gitlab](https://gitlab.com/olbotta)|⚫ [github](https://github.com/olbotta)|
+- all content is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
