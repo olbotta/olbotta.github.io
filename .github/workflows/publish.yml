@@ -14,7 +14,6 @@ jobs:
         with:
           graph-directory: .
           output-directory: www
-          theme-mode: dark
       - name: add a nojekyll file # to make sure asset paths are correctly identified
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
       - name: Deploy 🚀
