@@ -1,4 +1,4 @@
-- Hi! i'm Fabio Bottarelli and i love **sound and music computing**, live music and NIMEs.
+- Hi! i'm Fabio Bottarelli and i love **sound and music computing**, live music and [NIMEs](https://www.nime.org/).
 - # 💡my [[blog]] (italian only)
 	- {{embed [[Blog]]}}
 - # 🎓 my studies
